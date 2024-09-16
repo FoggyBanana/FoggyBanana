@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FoggyBanana
 - 👀 I’m interested in Linguistics
-- 🌱 I’m currently learning C++, C#
+- 🌱 I’m currently learning C++, C#, Dart/Flutter
 - 💞️ I’m looking to collaborate on Random shit
 - 📫 How to reach me just by messages here
 - 😄 Pronouns: he/him
